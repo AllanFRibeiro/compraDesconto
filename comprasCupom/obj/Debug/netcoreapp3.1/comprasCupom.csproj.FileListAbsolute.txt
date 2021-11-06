@@ -1,0 +1,13 @@
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.exe
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.deps.json
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.runtimeconfig.json
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.runtimeconfig.dev.json
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.dll
+C:\Imersao_Logica\comprasCupom\comprasCupom\bin\Debug\netcoreapp3.1\comprasCupom.pdb
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.AssemblyInfoInputs.cache
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.AssemblyInfo.cs
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.dll
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.pdb
+C:\Imersao_Logica\comprasCupom\comprasCupom\obj\Debug\netcoreapp3.1\comprasCupom.genruntimeconfig.cache
